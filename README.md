@@ -116,7 +116,7 @@ To maintain full multi-platform competency alongside Linux, a dedicated **Window
 
 ---
 
-## 🖥️ Workstation & Administration Environment
+## Workstation & Administration Environment
 
 Administrative tasks, shell scripting, and remote management sessions are performed from a customized **CachyOS (Arch Linux)** workstation via secure OpenSSH sessions to edge devices.
 
